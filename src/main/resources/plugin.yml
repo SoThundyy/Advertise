@@ -1,0 +1,5 @@
+name: Advertise
+version: '${project.version}'
+main: it.thundyy.advertise.AdvertisePlugin
+api-version: 1.18
+authors: [ Thundyy ]
